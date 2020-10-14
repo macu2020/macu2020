@@ -1,6 +1,6 @@
 
 
-# [](#hi-im-jorge--)Hola soy Jorge Macuri 🌟🏾💻🌟🏾‍💻
+# [](#hi-im-jorge--)Hola soy Jorge Macuri 🌟💻🌟💻
 
 [![banner de macuri ](https://webmacuris2020.000webhostapp.com/Assets/img/portadmacuri.jpg?raw=true)](https://webmacuris2020.000webhostapp.com/Assets/img/argyleink-sm2.gif?raw=true)
 [![gif from nerdy.dev](https://github.com/argyleink/argyleink/raw/master/argyleink-sm2.gif?raw=true)](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
