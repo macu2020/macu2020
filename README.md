@@ -7,7 +7,7 @@
 Soy un desarrollador de Software y Sistemas. Con conocimientos en Aplicaciones web, Análisis y Diseño de Sistemas (Backend, Frontend), Javascript, php, Laravel , Administración de Base de Datos SQL Server, Oracle y MySQL, Desarrollo de Aplicaciones moviles y Desktop en lenguaje de programación C#, Java. Puedes visitarme en mi pagina para ver mas informacion [WebM@c <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>](http://zonadamacuri.com/) 
 
 
-## [](#find-me-around-the-web--)Visitame en mis redes sociales <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌟🌎🌟</g-emoji>: [![](https://github.com/M0nica/M0nica/raw/main/octomonica/m0nica-octocat-rotating.gif?raw=true)](https://github.com/sponsors/M0nica)
+## [](#find-me-around-the-web--)Visitame en mis redes sociales <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌟🌎🌟</g-emoji>
 
 *   Learning in public on [Twitch](https://www.twitch.tv/blacktechdiva) or [monica.dev](https://www.monica.dev/) <g-emoji class="g-emoji" alias="video_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji> ✍🏾
 *   Tinkering with interactions on [Codepen](https://codepen.io/m0nica) <g-emoji class="g-emoji" alias="ping_pong" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d3.png">🏓</g-emoji>
