@@ -2,7 +2,7 @@
 
 # [](#hi-im-jorge--)Hola soy Jorge Macuri 🌟🏾💻🌟🏾‍💻
 
-[![banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica](https://webmacuris2020.000webhostapp.com/Assets/img/argyleink-sm2.gif)](https://webmacuris2020.000webhostapp.com/Assets/img/argyleink-sm2.gif)
+[![banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica](https://webmacuris2020.000webhostapp.com/Assets/img/portadmacuri.jpg)](https://webmacuris2020.000webhostapp.com/Assets/img/argyleink-sm2.gif)
 
 Soy un desarrollador de Software y Sistemas. Con conocimientos en Aplicaciones web, Análisis y Diseño de Sistemas (Backend, Frontend), Javascript, php, Laravel , Administración de Base de Datos SQL Server, Oracle y MySQL, Desarrollo de Aplicaciones moviles y Desktop en lenguaje de programación C#, Java. Puedes visitarme en mi pagina para ver mas informacion [WebM@c <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>](http://zonadamacuri.com/) 
 
