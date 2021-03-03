@@ -4,7 +4,7 @@
 
 [![banner de macuri ](https://webmacuris2020.000webhostapp.com/Assets/img/cabezalogoemail.PNG?raw=true)](http://zonadamacuri.com)
 
-Soy un desarrollador de Software y Sistemas. Con conocimientos en Aplicaciones web, Análisis y Diseño de Sistemas (Backend, Frontend), Javascript, php, Laravel , Administración de Base de Datos SQL Server, Oracle y MySQL, Desarrollo de Aplicaciones moviles y Desktop en lenguaje de programación C#, Java. Puedes visitarme en mi pagina para ver mas informacion [WebM@c <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>](http://zonadamacuri.com/) 
+Soy un desarrollador de Software y Sistemas. Con conocimientos en Aplicaciones web, Análisis y Diseño de Sistemas (Backend, Frontend), Javascript, php, Laravel , Administración de Base de Datos SQL Server, Oracle y MySQL, Desarrollo de Aplicaciones moviles y Desktop en lenguaje de programación C#, Java. Puedes visitarme en mi pagina para ver mas informacion [WebM@c <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>](https://webmacuri.website/) 
 
 
 ## [](#find-me-around-the-web--)Visitame en mis redes sociales <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌟🌎🌟</g-emoji>
