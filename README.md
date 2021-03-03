@@ -2,7 +2,7 @@
 
 # [](#hi-im-jorge--)Hola soy Jorge Macuri 🌟💻🌟💻
 
-[![banner de macuri ](https://webmacuris2020.000webhostapp.com/Assets/img/cabezalogoemail.PNG?raw=true)](http://zonadamacuri.com)
+[![banner de macuri ](https://us.123rf.com/450wm/naykirin/naykirin1706/naykirin170600129/81555855-equipo-mal-ware-y-ataque-de-virus-y-pantalla-de-c%C3%B3digo-fuente-y-fondo-de-tecnolog%C3%ADa-abstracta-desarrollad.jpg?ver=6)](http://zonadamacuri.com)
 
 Soy un desarrollador de Software y Sistemas. Con conocimientos en Aplicaciones web, Análisis y Diseño de Sistemas (Backend, Frontend), Javascript, php, Laravel , Administración de Base de Datos SQL Server, Oracle y MySQL, Desarrollo de Aplicaciones moviles y Desktop en lenguaje de programación C#, Java. Puedes visitarme en mi pagina para ver mas informacion [WebM@c <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌎</g-emoji>](https://webmacuri.website/) 
 
