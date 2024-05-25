@@ -10,7 +10,7 @@ Soy un desarrollador de Software y Sistemas. Con conocimientos en Aplicaciones w
 ## [](#find-me-around-the-web--)Visitame en mis redes sociales <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">🌟🌎🌟</g-emoji>
 
 *   [facebook](https://www.facebook.com/WebMac-583494042334010)  <g-emoji class="g-emoji" alias="video_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji> ✍🏾
-*   whatssapp 99 200 1909 🏓</g-emoji>
+*   whatssapp +51 967 599 967 🏓</g-emoji>
 *   [histagram](https://www.instagram.com/jorgemt1014/?hl=es-la) <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
 
